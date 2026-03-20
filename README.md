@@ -8,7 +8,7 @@ The CPU
 
 
 The ALU 
-<img width="1239" height="560" alt="image" src="https://github.com/user-attachments/assets/94b8ff61-d0b7-41ef-8686-564edb8f6676" />
+
 
 
 
